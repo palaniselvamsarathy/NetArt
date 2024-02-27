@@ -30,13 +30,16 @@ const Footer = () => {
         </div>
         <div></div>
         <div className="col-12 red-div">
-            <div>
+            <div className='img-div'>
+                <img src="./images/tf2.jpg" alt="TollFree" />
                 <h5>Toll free <b>1800 200 1234</b></h5>
             </div>
-            <div>
+            <div className='img-div'>
+                <img src="./images/fb.png" alt="Facebook" />
                 <h5><a href="www.facebook.com/cripumps">www.facebook.com/cripumps</a></h5>
             </div>
-            <div>
+            <div className='img-div'>
+                <img src="./images/ws.jpg" alt="Website" />
                 <h5><a href="www.crigroups.com">www.crigroups.com</a></h5>
             </div>
         </div>
