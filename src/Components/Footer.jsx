@@ -2,7 +2,7 @@ import React from 'react'
 
 const Footer = () => {
   return (
-    <div className='footer-parent'>
+    <div className='footer-parent mt-5'>
         <div className="col-12 footer-main-div">
             <h4><b>C.R.I FLUID SYSTEMS PRODUCTS CATER TO DIVER SEGMENTS</b></h4>
             <h6 className='footer-content'> 
